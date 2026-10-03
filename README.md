@@ -1,6 +1,6 @@
 # Household Water Program
 
-A small Java program I wrote to practice the basics. It shows some details about a household, works out a water bill, and adds up how much water was used in a day.
+It shows some details about a household, works out a water bill, and adds up how much water was used in a day.
 
 ## What it does
 
